@@ -1,0 +1,60 @@
+DATA CLASSIFICATION USING AI
+Name
+
+Mahalakshmi Gopinath
+
+Internship
+
+Artificial Intelligence Internship
+
+Organization
+
+DecodeLabs
+
+Objective
+
+To build a classification model using machine learning and classify Iris flower species using the K-Nearest Neighbors algorithm.
+
+Tools Used
+Python
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Dataset
+
+Iris Dataset
+
+Features:
+
+Sepal Length
+Sepal Width
+Petal Length
+Petal Width
+
+Classes:
+
+Setosa
+Versicolor
+Virginica
+Methodology
+Load Dataset
+Feature Scaling
+Train-Test Split
+Apply KNN
+Predict Output
+Evaluate Model
+Results
+
+Accuracy Achieved:
+
+(put your output)
+
+F1 Score:
+
+(put your output)
+
+Conclusion
+
+The KNN classifier successfully classified Iris flowers with high accuracy and demonstrated the fundamentals of supervised learning.
